@@ -1,9 +1,19 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at the [Data Office of the Rio de Janeiro City Hall](https://www.dados.rio/) as a **front-end developer**.
-- 🏗️ My current techt stack includes [Next.js 15](https://nextjs.org/), [React 19](https://react.dev/), [Tailwind](https://tailwindcss.com/), [Shadcn-ui](https://ui.shadcn.com/), and [Turborepo](https://turbo.build/).
-- 💼 My latest projects involve partnerships with the Municipal Health Secretariat, the Municipal Secretariat for Women, and the Municipal Secretariat of the Civil House. These projects focus on developing web apps packed with cool features like interactive maps, PDF report generation, API integrations, timelines, dashboards, tables, and much more.
-- 🌟 Passionate about leveraging technology to build greate things.
+🔭 I’m currently a front-end developer at the [Data Office of the Rio de Janeiro City Hall](https://www.dados.rio/), where I craft modern, user-centric web applications that make a real impact.
+
+💼 **What I’m working on:**\
+Collaborating with municipal departments like Health, Women's Affairs, and the Civil House Secretariat to deliver feature-rich platforms. My projects include:
+
+- 🗺️ Interactive maps for data visualization.
+- 📊 Dashboards and dynamic tables for decision-making.
+- 📄 Automated PDF report generation.
+- 📅 Timeline visualizations and more.
+
+🚀 **My Tech Stack:**\
+Specializing in [React 19](https://react.dev/) and [Next.js 15](https://nextjs.org/), with tools like [Tailwind](https://tailwindcss.com/), [Shadcn-ui](https://ui.shadcn.com/), and [Turborepo](https://turbo.build/) for building scalable, maintainable, and high-performance applications.
+
+🌟 I’m passionate about leveraging cutting-edge technologies to build innovative solutions that solve real-world problems.
 
 <!--
 **victorassiso/victorassiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
