@@ -5,10 +5,9 @@
 💼 **What I’m working on:**\
 Collaborating with municipal departments like Health, Women's Affairs, and the Civil House Secretariat to deliver feature-rich platforms. My projects include:
 
-- 🗺️ Interactive maps for data visualization.
-- 📊 Dashboards and dynamic tables for decision-making.
+- 🗺️ Interactive, feature-rich maps.
 - 📄 Automated PDF report generation.
-- 📅 Timeline visualizations and more.
+- 📊 Dynamic Dashboards, Timelines, Tables and more.
 
 🚀 **My Tech Stack:**\
 Specializing in [React 19](https://react.dev/) and [Next.js 15](https://nextjs.org/), with tools like [Tailwind](https://tailwindcss.com/), [Shadcn-ui](https://ui.shadcn.com/), and [Turborepo](https://turbo.build/) for building scalable, maintainable, and high-performance applications.
